@@ -1,0 +1,11 @@
+# Dependencies & build output (Next.js app in subdirectory)
+martin-tailors-web/node_modules/
+martin-tailors-web/.next/
+martin-tailors-web/out/
+martin-tailors-web/.vercel/
+
+# Env & logs
+.env
+.env.*
+*.log
+.DS_Store
