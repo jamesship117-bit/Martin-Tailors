@@ -185,11 +185,6 @@ export default function Home() {
         <div className="luxury-section__inner appointment-layout">
           <div>
             <h2 className="section-heading">Appointments</h2>
-            <p className="appointment-intro">
-              Reserve a private consultation. We will confirm your time by
-              phone. For urgent matters, call{" "}
-              <a href="tel:+17138614891">713-861-4891</a>.
-            </p>
           </div>
           <div className="appointment-shell">
             <form className="luxury-form">
@@ -200,7 +195,7 @@ export default function Home() {
                 </label>
                 <label>
                   Phone
-                  <input required type="tel" placeholder="713-861-4891" />
+                  <input required type="tel" placeholder="Phone number" />
                 </label>
                 <label>
                   Service
