@@ -75,8 +75,7 @@ export default function Home() {
             </h1>
             <p className="editorial-hero__lede">
               Alterations, repairs, and made-to-measure precision — executed
-              with the discipline of Savile Row and the clarity of modern
-              design.
+              with timeless discipline and modern precision.
             </p>
             <div className="editorial-hero__actions">
               <a className="btn-luxury" href="#appointments">
